@@ -1,0 +1,17 @@
+git init  -  used to initialize a git repo 
+git status - will show repo status
+git add filename - to add file to a stage area
+git add . - add all modified and untracked files
+git commit -m "commit name" 
+
+
+git diff - used to see what changed in the file
+(--staged show staged changes
+HEAD show all change compare with last commit
+
+)
+
+git restore filename  return it to its last committed state
+
+git restore --staged filename   This removes it from the staging area but does not delete your modifications.
+

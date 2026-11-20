@@ -15,3 +15,10 @@ git restore filename  return it to its last committed state
 
 git restore --staged filename   This removes it from the staging area but does not delete your modifications.
 
+git pull brings the cahnges in remote to local dir
+
+git log shows commit history
+
+git fetch return changes from remote
+
+git merge  combain changes from branches
